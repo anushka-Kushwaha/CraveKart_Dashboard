@@ -79,7 +79,7 @@ This dashboard helps in:
 
 ## 📷 Dashboard Preview
 
-
+https://github.com/anushka-Kushwaha/CraveKart_Dashboard/blob/main/CraveKart%20Insights%20Kitchen.png
 
 
 
